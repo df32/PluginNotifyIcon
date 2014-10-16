@@ -1,6 +1,6 @@
 
-NotifyIcon\bin
-NotifyIcon\obj
+NotifyIcon/bin/*
+NotifyIcon/obj/*
 
 
 #################
